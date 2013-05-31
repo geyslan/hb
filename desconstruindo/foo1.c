@@ -1,0 +1,2 @@
+void foo1function() {
+}
